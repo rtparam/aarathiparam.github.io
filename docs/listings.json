@@ -1,0 +1,65 @@
+[
+  {
+    "listing": "/projects/index.html",
+    "items": []
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/complexity72h/index.html",
+      "/projects/masterthesis/index.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/research/masterthesis/index.html",
+      "/research/complexity72h/index.html",
+      "/research/bachelorthesis/index.html",
+      "/research/index.html"
+    ]
+  },
+  {
+    "listing": "/misc.html",
+    "items": [
+      "/misc/Media and Politics Studies/index.html",
+      "/misc/Feature/index.html",
+      "/misc/IFS/index.html",
+      "/misc/Op Ed/index.html",
+      "/misc/Photography/index.html",
+      "/misc/PRE/index.html",
+      "/misc/Reading List/index.html",
+      "/misc/Wildlife Studies/index.html"
+    ]
+  },
+  {
+    "listing": "/misc/Media and Politics Studies/index.html",
+    "items": [
+      "/misc/Media and Politics Studies/prez/affordances/index.html",
+      "/misc/Media and Politics Studies/prez/concentration/index.html",
+      "/misc/Media and Politics Studies/prez/iwillgoout/index.html",
+      "/misc/Media and Politics Studies/prez/Television affordances/index.html"
+    ]
+  },
+  {
+    "listing": "/pandc/index.html",
+    "items": [
+      "/pandc/projects/AAMO/index.html",
+      "/pandc/projects/Lab Course/index.html",
+      "/pandc/projects/complex networks/index.html",
+      "/pandc/projects/CopInt/index.html",
+      "/pandc/projects/NLD/index.html",
+      "/pandc/projects/Quantum Computing/index.html",
+      "/pandc/projects/quantum optics/index.html",
+      "/pandc/projects/photonics sem/index.html",
+      "/pandc/projects/ictp/index.html",
+      "/pandc/projects/Stats/index.html",
+      "/pandc/projects/theoretical neuroscience/index.html",
+      "/pandc/projects/climate phys/index.html"
+    ]
+  },
+  {
+    "listing": "/pandc/projects/bachelors/index.html",
+    "items": []
+  }
+]

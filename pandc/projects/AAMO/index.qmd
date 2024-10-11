@@ -1,0 +1,11 @@
+---
+title: Advanced Atomic, Molecular and Optical Physics
+---
+
+An in-depth essay on the Nobel Prize in Physics awarded to Polykarp Kusch in the year 1955, highlighting the research and impact of his experiments that led to the precise determination of the magnetic moment of an electron. This essay was my submission for the final exam for the course Advanced Atomic, Molecular and Optical Physics by Prof. Dr. Michael Köhl in the Winter Semester 23/24 at the University of Bonn. 
+
+
+<object data="AAMO_Essay.pdf" type="application/pdf" width="100%" height="500px">
+  <p>Unable to display PDF file. <a href="AAMO_Essay.pdf">Download</a> instead.</p>
+</object>
+

@@ -1,0 +1,30 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/rtparam
+    - icon: github
+      text: Github
+      href: https://github.com/rtparam
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/aarathip
+    - icon: envelope
+      text: Email
+      href: "mailto:aarathiparameswaran@gmail.com"  
+---
+
+::: {#about-block}
+:::
+
+# Aarathi Parameswaran (she/her)
+
+Hi! I'm a master's student in physics at the University of Bonn, as a part of the Bonn-Cologne Graduate School of Physics and Astronomy. I am currently working on my master thesis on optimal networks under [Prof. Dr. Dirk Witthaut](https://www.fz-juelich.de/profile/witthaut_d) as a part of the [Network Science Group](https://www.thp.uni-koeln.de/witthaut/index.html) at the Institute for Theoretical Physics at the University of Cologne and the [Energy Networks and Complex Systems Group](https://www.fz-juelich.de/en/ice/ice-1/research/research-groups/energy-networks-and-complex-systems) at the Institute of Climate and Energy Systems (ICE-1) at Forschungszentrum Jülich. I received my Bachelor's degree in physics with interdisciplinary studies in Media and Democracy from Azim Premji University, India. 
+
+I am interested in fundamentals of network science theory and its applications to the social sciences, specifically in areas such polarization, inequalities, misinformation and opinions in social networks. I am currently looking for PhD positions starting fall 2025.
+
+

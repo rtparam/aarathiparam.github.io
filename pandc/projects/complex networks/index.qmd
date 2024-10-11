@@ -1,0 +1,9 @@
+---
+title: Complex Networks and Energy Grids
+---
+
+Course on Complex Networks and Energy Grids by Prof. Dirk Witthaut in the Summer Semester 23 at the University of Cologne. Introduction to graph theory, network science, random graphs, percolation theory, epidemiology and so on. Did mini-projects on the topics that involved using <code> NetworkX </code>. Jupyter Notebooks can be found on this GitHub link: [GitHub/rtparam/Complex-Networks](https://github.com/rtparam/Complex-Networks) 
+
+<object data="Grade_Parameswaran.pdf" type="application/pdf" width="100%" height="500px">
+  <p>Unable to display PDF file. <a href="Grade_Parameswaran.pdf">Download</a> instead.</p>
+</object>

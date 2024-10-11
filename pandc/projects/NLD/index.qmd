@@ -1,0 +1,12 @@
+--- 
+title: Mandelbrot and Julia Sets
+---
+
+Project on Mandelbrot and Julia sets as a submission for Nonlinear Dynamics course by Dr. Kaustubh Manchanda in the sixth semester (2022) of my undergraduate degree. Codes can be found on this GitHub repository: [GitHub/rtparam/Nonlinear-Dynamics](https://github.com/rtparam/Nonlinear-Dynamics)
+
+<object data="MandelbrotJuliaReport.pdf" type="application/pdf" width="100%" height="500px">
+  <p>Unable to display PDF file. <a href="MandelbrotJuliaReport.pdf">Download</a> instead.</p>
+</object>
+
+
+

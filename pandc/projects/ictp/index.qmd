@@ -1,0 +1,28 @@
+---
+title: Spring College on the Physics of Complex Systems
+---
+
+I had the opportunity to attend the [Spring College on the Physics of Complex Systems](https://indico.ictp.it/event/10459) at the Abdus Salam Institute for Theoretical Physics in Trieste, Italy from February to March 2024 as a fully funded student sponsored by ICTP and SISSA. The four-week long school introduced me to field of complex systems that I had not encountered before, through a series of courses, lectures, talks and exams. 
+
+# Thermodynamics of Information
+
+Course by Prof. J M R Parrondo from Universidad Complutense de Madrid on the Thermodynamics of Information. Covered topics on information theory, stochastic thermodynamics, Maxwell demons, Szilard engines.
+Final exam score: 14.5/20
+
+# Statistical Mechanics of Random Matrices
+
+Course by Prof. Isaac Perez Castillo from Universidad Autonoma Metropolitana on the Statistical Mechanics of Random Matrices. Covered topics like spin glass theory, replica and cavity methods, spectral density of random graphs.
+Final exam score: 18/20
+
+# Collective Dynamics in Complex Systems
+Course by Prof. Ram Ramaswamy from IIT-Delhi on Collective Dynamics in Complex Systems. Covered topics like synchronization, phase transitions, Kuramoto model, Lyapunov functions and Poincare-Bendixson theorem, chaotic synchronization, attractors and stability, chimeras.
+Final exam score: 18/20
+
+# Physics of RNA
+Course by Dr. Anže Božič from Jozef Stefan Institute on the Physics of RNA. Covered topics like RNA sequence, structure, functions, electrostatic interactions and phase separation, branched polymers.
+Final exam score: 20/20
+
+<object data="ICTP Spring College Certificate.pdf" type="application/pdf" width="100%" height="500px">
+  <p>Unable to display PDF file. <a href="ICTP Spring College Certificate.pdf">Download</a> instead.</p>
+</object>
+

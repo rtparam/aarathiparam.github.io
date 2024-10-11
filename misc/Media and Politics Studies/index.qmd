@@ -1,0 +1,30 @@
+---
+title: Media and Politics Studies
+weight: 1
+---
+
+Featured here is some of the work I did during my undergraduate degree at Azim Premji University for my Interdisciplinary Studies minor: Media and Democracy. The courses I had covered the topics of basics of media studies theory, multimedia storytelling, media and politics in the Indian context. 
+
+## Affordances and politics
+
+<object data="Television and its  political affordances ppt.pdf" type="application/pdf" width="100%" height="500px">
+  <p>Unable to display PDF file. <a href="Television and its  political affordances ppt.pdf">Download</a> instead.</p>
+</object>
+
+
+## Media Concentration
+<object data="Media Concentration Presentation.pdf" type="application/pdf" width="100%" height="500px">
+  <p>Unable to display PDF file. <a href="Media Concentration Presentation.pdf">Download</a> instead.</p>
+</object>
+
+## Political Movements on Social Media
+
+<object data="IWillGoOut online political movement.pdf" type="application/pdf" width="100%" height="500px">
+  <p>Unable to display PDF file. <a href="IWillGoOut online political movement.pdf">Download</a> instead.</p>
+</object>
+
+## Media Affordances
+
+<object data="Media Affordances assignment.pdf" type="application/pdf" width="100%" height="500px">
+  <p>Unable to display PDF file. <a href="Media Affordances assignment.pdf">Download</a> instead.</p>
+</object>

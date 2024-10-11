@@ -1,0 +1,10 @@
+---
+title: Physics Projects and Coursework
+listing:
+    contents: projects
+    type: default
+    categories: true
+---
+
+Featured here are some interesting projects, assignments and notes from coursework during my undergraduate and graduate courses in physics. 
+

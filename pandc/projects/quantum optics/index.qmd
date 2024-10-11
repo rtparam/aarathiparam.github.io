@@ -1,0 +1,5 @@
+---
+title: Quantum Optics
+---
+
+My notes from the course Quantum Optics by Prof. Dr. Sebastian Hofferberth and Dr. Daqing Wang in the Winter Semester 23/24 at the University of Bonn can be found on this Notion page: [Quantum Optics](https://burnt-jump-779.notion.site/Quantum-Optics-6b7443ddd87e43f0b4ff15581c49b245?pvs=4).

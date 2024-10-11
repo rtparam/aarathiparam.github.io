@@ -1,0 +1,6 @@
+---
+title: Quantum Computing
+---
+
+Exercises done with quantum computing using <code>qiskit</code> on python for the course on Quantum Computing by Jun.-Prof. Lena Funcke in the Summer Semester 23 at the University of Bonn.
+Can be found in the GitHub repository: [GitHub/rtparam/Quantum-Computing](https://github.com/rtparam/Quantum-Computing)

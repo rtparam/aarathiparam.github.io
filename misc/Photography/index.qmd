@@ -1,0 +1,23 @@
+---
+title: Photography
+---
+
+I am an amateur photographer and I love photographing birds. I mostly do digital photography but I've recently picked up some analog cameras too! Featured here are some of my favourite pictures.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 100%;">
+  <img src="image1.JPG" alt="Photo 1" style="flex: 0 0 calc(19% - 10px); margin-bottom: 10px; max-width: 100%;" />
+  <img src="image2.JPG" alt="Photo 2" style="flex: 0 0 calc(19% - 10px); margin-bottom: 10px; max-width: 100%;" />
+  <img src="image3.JPG" alt="Photo 3" style="flex: 0 0 calc(19% - 10px); margin-bottom: 10px; max-width: 100%;" />
+  <img src="image4.JPG" alt="Photo 4" style="flex: 0 0 calc(19% - 10px); margin-bottom: 10px; max-width: 100%;" />
+  <img src="image5.JPG" alt="Photo 5" style="flex: 0 0 calc(19% - 10px); margin-bottom: 10px; max-width: 100%;" />
+  <img src="image6.JPG" alt="Photo 6" style="flex: 0 0 calc(19% - 10px); margin-bottom: 10px; max-width: 100%;" />
+  <img src="image7.JPG" alt="Photo 7" style="flex: 0 0 calc(19% - 10px); margin-bottom: 10px; max-width: 100%;" />
+  <img src="image8.JPG" alt="Photo 8" style="flex: 0 0 calc(19% - 10px); margin-bottom: 10px; max-width: 100%;" />
+  <img src="image9.JPG" alt="Photo 9" style="flex: 0 0 calc(19% - 10px); margin-bottom: 10px; max-width: 100%;" />
+  <img src="image10.JPG" alt="Photo 10" style="flex: 0 0 calc(19% - 10px); margin-bottom: 10px; max-width: 100%;" />
+  <img src="image11.JPG" alt="Photo 11" style="flex: 0 0 calc(19% - 10px); margin-bottom: 10px; max-width: 100%;" />
+  <img src="image12.JPG" alt="Photo 12" style="flex: 0 0 calc(19% - 10px); margin-bottom: 10px; max-width: 100%;" />
+  <img src="image13.JPG" alt="Photo 13" style="flex: 0 0 calc(19% - 10px); margin-bottom: 10px; max-width: 100%;" />
+  <img src="image14.JPG" alt="Photo 14" style="flex: 0 0 calc(19% - 10px); margin-bottom: 10px; max-width: 100%;" />
+  <img src="image15.JPG" alt="Photo 15" style="flex: 0 0 calc(19% - 10px); margin-bottom: 10px; max-width: 100%;" />
+</div>

@@ -1,0 +1,8 @@
+---
+title: Theoretical Neuroscience
+---
+
+Notes and computation from course on Theoretical Neuroscience for Physicists by Prof. Raoul Martin-Memmesheimer in the Winter Semester 23/24 at the University of Bonn.
+
+My notes can be found on this Notion site: [Theoretical Neuroscience Notes](https://burnt-jump-779.notion.site/Theoretical-Neuroscience-3c4cd3a1e50745ccbea2340149b72153?pvs=4)
+Jupyter Notebooks for some computational neuroscience done during the course can be found on this GitHub link: [GitHub :rtparam: Theoretical-Neuroscience](https://github.com/rtparam/Theoretical-Neuroscience)

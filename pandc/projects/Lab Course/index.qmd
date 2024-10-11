@@ -1,0 +1,46 @@
+---
+title: Advanced Lab Course
+---
+Reports from the experiments performed in the Advanced Lab Course in physics in the Summer Semester 23 at the University of Bonn.
+
+
+## BELLE II:
+Studying particle-antiparticle flavour oscillations of neutral B mesons of the BELLE II experiment at the Super-KEKB accelerator in Japan by analysing simulated data and reconstructing the decay chain. Detailed Jupyter Notebook can be found in this GitHub repository: [GitHub/rtparam/BELLE-II](https://github.com/rtparam/BELLE-II-) 
+
+<object data="E215__Belle_II_Report_Aarathi_Purbita.pdf" type="application/pdf" width="100%" height="500px">
+  <p>Unable to display PDF file. <a href="E215__Belle_II_Report_Aarathi_Purbita.pdf">Download</a> instead.</p>
+</object>
+
+
+## Laser Spectroscopy
+High-resolution laser spectroscopy using a single-mode extended cavity diode laser emitting radiation at $794 nm$ coupled to a Fabry-Perot Interferometer to study diode laser characteristics and investigate the hyperfine structure of Rubidium using spectroscopic techniques. Codes can be found in this GitHub repository: [GitHub/rtparam/Laser-Spectroscopy](https://github.com/rtparam/Laser-Spectroscopy)
+
+<object data="A246_Laser_Spectroscopy_A5_Aarathi_Purbita.pdf" type="application/pdf" width="100%" height="500px">
+  <p>Unable to display PDF file. <a href="A246_Laser_Spectroscopy_A5_Aarathi_Purbita.pdf">Download</a> instead.</p>
+</object>
+
+## Observational Radio Astronomy
+
+Using the Stockert 25m radio telescope at Iversheim, to perform calibration with a standard Milky Way source and analysing the acquired data. A nearby galaxy is observed and its parameters evaluated, and then a pulsar is observed to calculate its dispersion measure and thus, its distance. Codes can be found in this GitHub repository: [GitHub/rtparam/Radio-astronomy-pulsar-B0329-54](https://github.com/rtparam/Radio-astronomy-pulsar-B0329-54.)
+
+<object data="S264_Radio_Astronomical_Observing_Report_Aarathi_Purbita.pdf" type="application/pdf" width="100%" height="500px">
+  <p>Unable to display PDF file. <a href="S264_Radio_Astronomical_Observing_Report_Aarathi_Purbita.pdf">Download</a> instead.</p>
+</object>
+
+
+## Radio Interferometry
+
+Performing radio interferometry to detect radio signals from the sun. The experiment is divided into two main tasks: (1) Setting up a radio-astronomical receiver and (2) Setting up a twin radio interferometer and taking measurements of the sun. Codes for analysis can be found in this GitHub repository: [GitHub/rtparam/Radio-Interferometry](https://github.com/rtparam/Radio-Interferometry) 
+
+<object data="S264_Radio_Interferometry_Report_A5_Aarathi_Purbita.pdf" type="application/pdf" width="100%" height="500px">
+  <p>Unable to display PDF file. <a href="S264_Radio_Interferometry_Report_A5_Aarathi_Purbita.pdf">Download</a> instead.</p>
+</object>
+
+## Nuclear $\gamma - \gamma$ Angular Correlations
+
+Study of the anisotropic distribution of nuclear spin which emerges from the cascaded $\gamma - \gamma$ decay of Cobalt.
+
+<object data="K223__Nuclear_angular_correlations_A5_Aarathi_Purbita.pdf" type="application/pdf" width="100%" height="500px">
+  <p>Unable to display PDF file. <a href="K223__Nuclear_angular_correlations_A5_Aarathi_Purbita.pdf">Download</a> instead.</p>
+</object>
+

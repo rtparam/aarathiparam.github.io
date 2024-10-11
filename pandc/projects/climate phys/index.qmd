@@ -1,0 +1,11 @@
+---
+title: Weather and Climate Physics Seminar
+---
+
+Presentation on the vertical structure of the atmosphere and the quantum mechanics of greenhouse gases for the seminar on Weather and Climate for Physics by Prof. Dr. Herbert Dreiner in the Winter Semester 23/24 at the University of Bonn.
+
+
+<object data="Seminar_presentation.pdf" type="application/pdf" width="100%" height="500px">
+  <p>Unable to display PDF file. <a href="Seminar_presentation.pdf">Download</a> instead.</p>
+</object>
+
