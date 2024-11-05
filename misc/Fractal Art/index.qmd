@@ -1,0 +1,14 @@
+---
+title: Fractal Art
+---
+After being introduced to the topologically intricate world(s) of fractals from my undergraduate nonlinear dynamics course, I had taken to dabble with them on Python. Of late, this hobby was re-ignited after some hooking, intense music sessions listening to the Japanese neo-psychedelic rock band [*Kikagaku Moyo*](https://www.youtube.com/watch?v=egmECvOCZ8Y). The name of the band translates to 'geometric patterns' and images of fractals were the first to pop into my head. 
+
+Here is some fractal art I've generated recently. A work in progress, I am trying to use <code>MoviePy</code> to extract audio features from the music for the animation. 
+
+## Halley Fractals:
+<img src="halley.png" alt="Halley" width="300" style="display: block; margin-left: auto; margin-right: auto;"/>
+
+## Phoenix Fractals:
+<img src="1.png" alt="p1" width="300" style="display: block; margin-left: auto; margin-right: auto;"/>
+<img src="2.1.png" alt="p2" width="300" style="display: block; margin-left: auto; margin-right: auto;"/>
+<img src="3.png" alt="p3" width="300" style="display: block; margin-left: auto; margin-right: auto;"/>

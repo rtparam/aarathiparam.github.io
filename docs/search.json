@@ -137,7 +137,7 @@
     "href": "misc.html",
     "title": "Miscellaneous",
     "section": "",
-    "text": "Media and Politics Studies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow Skateboarding Keeps Kids in School in Kerala\n\n\n\n\n\n\n\n\n\n\n\nMar 17, 2021\n\n\nAarathi Parameswaran\n\n\n\n\n\n\n\n\n\n\n\n\nInfosys Science Foundation Talk\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy Cooking Network\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStriving Towards Gender Inclusivity in STEM in India\n\n\n\n\n\n\n\n\n\n\n\nMar 24, 2021\n\n\nAarathi Parameswaran\n\n\n\n\n\n\n\n\n\n\n\n\nPhotography\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOn Prison Abolition\n\n\n\n\n\n\n\n\n\n\n\nAarathi Parameswaran\n\n\n\n\n\n\n\n\n\n\n\n\nMy Reading List\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWildlife in India\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Media and Politics Studies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow Skateboarding Keeps Kids in School in Kerala\n\n\n\n\n\n\n\n\n\n\n\nMar 17, 2021\n\n\nAarathi Parameswaran\n\n\n\n\n\n\n\n\n\n\n\n\nFractal Art\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInfosys Science Foundation Talk\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy Cooking Network\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStriving Towards Gender Inclusivity in STEM in India\n\n\n\n\n\n\n\n\n\n\n\nMar 24, 2021\n\n\nAarathi Parameswaran\n\n\n\n\n\n\n\n\n\n\n\n\nPhotography\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOn Prison Abolition\n\n\n\n\n\n\n\n\n\n\n\nAarathi Parameswaran\n\n\n\n\n\n\n\n\n\n\n\n\nMy Reading List\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWildlife in India\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "misc/Media and Politics Studies/index.html",
@@ -445,6 +445,20 @@
     "href": "misc/My Cooking Network/index.html",
     "title": "My Cooking Network",
     "section": "",
-    "text": "My Cooking Network\nI love cooking, for myself, for the people I love. I also love exploring and experimenting with cuisines. So I decided to document this favourite activity of mine using a favourite academic activity of mine: Networks! Here are the dishes I’ve made recently, in the form of a bipartite network with dishes and ingredients labelled according to the different cuisines they fall under. I made this using NetworkX and PyVis. This is a work in progress, and I constantly update it when I get the time (or make something exciting). Click on a node to explore details."
+    "text": "I love cooking, for myself, for the people I love. I also love exploring and experimenting with cuisines. So I decided to document this favourite activity of mine using a favourite academic activity of mine: Networks! Here are the dishes I’ve made recently, in the form of a bipartite network with dishes and ingredients labelled according to the different cuisines they fall under. I made this using NetworkX and PyVis. This is a work in progress, and I constantly update it when I get the time (or make something exciting). Click on a node to explore details."
+  },
+  {
+    "objectID": "misc/Fractal Art/index.html",
+    "href": "misc/Fractal Art/index.html",
+    "title": "Fractal Art",
+    "section": "",
+    "text": "After being introduced to the topologically intricate world(s) of fractals from my undergraduate nonlinear dynamics course, I had taken to dabble with them on Python. Of late, this hobby was re-ignited after some hooking, intense music sessions listening to the Japanese neo-psychedelic rock band Kikagaku Moyo. The name of the band translates to ‘geometric patterns’ and images of fractals were the first to pop into my head.\nHere is some fractal art I’ve generated recently. A work in progress, I am trying to use MoviePy to extract audio features from the music for the animation."
+  },
+  {
+    "objectID": "misc/Fractal Art/index.html#halley-fractals",
+    "href": "misc/Fractal Art/index.html#halley-fractals",
+    "title": "Fractal Art",
+    "section": "Halley Fractals:",
+    "text": "Halley Fractals:"
   }
 ]
