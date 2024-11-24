@@ -452,7 +452,7 @@
     "href": "misc/Fractal Art/index.html",
     "title": "Fractal Art",
     "section": "",
-    "text": "After being introduced to the topologically intricate world(s) of fractals from my undergraduate nonlinear dynamics course, I had taken to dabble with them on Python. Of late, this hobby was re-ignited after some hooking, intense music sessions listening to the Japanese neo-psychedelic rock band Kikagaku Moyo. The name of the band translates to ‘geometric patterns’ and images of fractals were the first to pop into my head.\nHere is some fractal art I’ve generated recently. A work in progress, I am trying to use MoviePy to extract audio features from the music for the animation."
+    "text": "My journey into the topologically intricate realms of fractals began during my undergraduate nonlinear dynamics course. Recently, this fascination has been reignited by discovering the Japanese neo-psychedelic rock band Kikagaku Moyo. The band’s name translates to “geometric patterns,” evoking vivid images of fractals that have captivated my imagination.\nBelow, I present a selection of fractal art I have generated in recent weeks. This project is still a work in progress, as I explore the integration of audio features extracted from their mesmerizing music using MoviePy to enhance the animation."
   },
   {
     "objectID": "misc/Fractal Art/index.html#halley-fractals",
@@ -460,5 +460,12 @@
     "title": "Fractal Art",
     "section": "Halley Fractals:",
     "text": "Halley Fractals:"
+  },
+  {
+    "objectID": "misc/Fractal Art/index.html#phoenix-fractals",
+    "href": "misc/Fractal Art/index.html#phoenix-fractals",
+    "title": "Fractal Art",
+    "section": "Phoenix Fractals:",
+    "text": "Phoenix Fractals:"
   }
 ]
