@@ -11,9 +11,26 @@ image: mscthesis.jpg
 Ongoing master thesis with [Prof. Dr. Dirk Witthaut](https://www.fz-juelich.de/profile/witthaut_d) and [Dr. Iva Bačić](https://scholar.google.com/citations?user=zkK3JdcAAAAJ&hl=en) at the Network Science Group at the University of Cologne and the Energy Networks and Complex Systems Group at Forschungszentrum Jülich, and co-advised by [Prof. Dr. rer. nat. Klaus Lehnertz](https://scholar.google.com/citations?user=dv8glggAAAAJ&hl=en). I am studying structural transitions, specifically the phenomena of symmetry breaking in the topology of optimal networks, extended to multi-layer networks.
 I am expected to finish my thesis by April 2025, after which a paper will be produced for publication.
 
-### Thesis Progress (September 2024)
+### NetSci Abstract
 
-Thesis progress presentation, delivered as an internal talk to the group on September 11th, 2024.
+```{=html}
+<!DOCTYPE html>
+<html>
+
+  </head>
+  <body>
+
+   <object data= "NetSci_2025_optimal_networks_Parameswaran_Witthaut_Bacic.pdf" type="application/pdf" width="100%" height="500px">
+    <p>Unable to display PDF file. <a href="NetSci_2025_optimal_networks_Parameswaran_Witthaut_Bacic.pdf">Download</a> instead.</p>
+   </object>
+  </body>
+</html>
+```
+
+### Thesis Progress (November 2024)
+
+
+Thesis progress presentation, delivered as an internal talk to the group on November 21, 2024.
 
 
 ```{=html}
@@ -23,8 +40,8 @@ Thesis progress presentation, delivered as an internal talk to the group on Sept
   </head>
   <body>
 
-   <object data= "Thesis_Progress_Presentation.pdf" type="application/pdf" width="100%" height="500px">
-    <p>Unable to display PDF file. <a href="Thesis_Progress_Presentation.pdf">Download</a> instead.</p>
+   <object data= "Thesis_Progress_Presentation_2 (2).pdf" type="application/pdf" width="100%" height="500px">
+    <p>Unable to display PDF file. <a href="Thesis_Progress_Presentation_2 (2).pdf">Download</a> instead.</p>
    </object>
   </body>
 </html>
