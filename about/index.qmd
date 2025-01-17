@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-I am currently pursuing a master of science in physics at the University of Bonn as a part of the Bonn-Cologne Graduate School of Physics and Astronomy. I am in my final semester of study, working on my master's thesis titled 'Structural Transitions in Optimal Networks' under [Prof. Dr. Dirk Witthaut](https://www.fz-juelich.de/profile/witthaut_d). I began my thesis in May 2024 and I expect to finish it by April 2025, after which the work will be published. 
+I am currently pursuing a master of science in physics at the University of Bonn as a part of the Bonn-Cologne Graduate School of Physics and Astronomy. I am in my final semester of study, working on my master's thesis titled 'Structural Transitions in Optimal Networks' under [Prof. Dr. Dirk Witthaut](https://www.fz-juelich.de/profile/witthaut_d). I began my thesis in May 2024 and I expect to finish it by April 2025, after which the work will be published. During my master's I also gained some experience in particle physics and quantum optics. 
 
 I completed my bachelor of science (honours) in physics, with an interdisciplinary study in media and democracy at Azim Premji University, Bangalore from 2019-2022. My bachelor's thesis titled 'Investigating Taylor-Couette Flow' was a computational and experimental study on the fluid dynamics phenomenon of Taylor-Couette flow.
 
